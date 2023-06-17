@@ -15,3 +15,7 @@ function plusHashCount(str) {
     return [hashCount, plusCount];
   }
   console.log(plusHashCount("+++++####"));
+
+
+
+  
